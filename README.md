@@ -1,1 +1,1 @@
-# ako-meal-count-app
+# Ako - Meal count Mobile app
